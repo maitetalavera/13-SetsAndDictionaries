@@ -36,6 +36,13 @@
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
 
+print("Welcome to Recipe Book!")
+
+recipe={
+    "name": input(name),
+    "ingredients": {}
+}
+
 ###############################################################################
 # TODO: 2. EXTRA CREDIT (2 pts)
 #
